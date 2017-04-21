@@ -1,0 +1,46 @@
+<svg height="686" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="686" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">21 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ jsonapify@1.6.9 </tspan>
+<tspan x="10" y="90">  ├─┬ async@2.3.0 </tspan>
+<tspan x="10" y="106">  │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="122">  ├── glob2re@1.0.1 </tspan>
+<tspan x="10" y="138">  ├── jsonpatch@3.0.1 </tspan>
+<tspan x="10" y="154">  ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="170">  ├─┬ mongoose@4.9.5 </tspan>
+<tspan x="10" y="186">  │ ├─┬ async@2.1.4 </tspan>
+<tspan x="10" y="202">  │ │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="218">  │ ├── bson@1.0.4 </tspan>
+<tspan x="10" y="234">  │ ├── hooks-fixed@2.0.0 </tspan>
+<tspan x="10" y="250">  │ ├── kareem@1.2.1 </tspan>
+<tspan x="10" y="266">  │ ├─┬ mongodb@2.2.25 </tspan>
+<tspan x="10" y="282">  │ │ ├── es6-promise@3.2.1 </tspan>
+<tspan x="10" y="298">  │ │ ├─┬ mongodb-core@2.1.9 </tspan>
+<tspan x="10" y="314">  │ │ │ └─┬ require_optional@1.0.0 </tspan>
+<tspan x="10" y="330">  │ │ │   ├── resolve-from@2.0.0 </tspan>
+<tspan x="10" y="346">  │ │ │   └── semver@5.3.0 </tspan>
+<tspan x="10" y="362">  │ │ └─┬ readable-stream@2.1.5 </tspan>
+<tspan x="10" y="378">  │ │   ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="394">  │ │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="410">  │ │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="426">  │ │   ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="442">  │ │   ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="458">  │ │   ├── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="474">  │ │   └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="490">  │ ├── mpath@0.2.1 </tspan>
+<tspan x="10" y="506">  │ ├── mpromise@0.5.5 </tspan>
+<tspan x="10" y="522">  │ ├─┬ mquery@2.3.0 </tspan>
+<tspan x="10" y="538">  │ │ ├── bluebird@2.10.2 </tspan>
+<tspan x="10" y="554">  │ │ ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="570">  │ │ │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="586">  │ │ └── sliced@0.0.5 </tspan>
+<tspan x="10" y="602">  │ ├── ms@0.7.2 </tspan>
+<tspan x="10" y="618">  │ ├── muri@1.2.1 </tspan>
+<tspan x="10" y="634">  │ ├── regexp-clone@0.0.1 </tspan>
+<tspan x="10" y="650">  │ └── sliced@1.0.1 </tspan>
+<tspan x="10" y="666">  └── qs@6.4.0</tspan>
+</text>
+</svg>
